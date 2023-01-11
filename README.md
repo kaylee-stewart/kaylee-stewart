@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Kaylee Stewart
 - 🩺 I’m currently pursuing a degree in health policy 
-- 💻 I'm intersted in health care data analytics related to quality of care and cost
+- 💻 I'm intersted in health care data analytics related to quality of care and cost, in particular value-based payment 
 
 
 <!---
